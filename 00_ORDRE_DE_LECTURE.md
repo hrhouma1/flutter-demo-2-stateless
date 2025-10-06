@@ -2,7 +2,6 @@
 
 Ce projet contient plusieurs fichiers de documentation. Voici l'ordre recommande pour les lire :
 
-## Pour Debutants
 
 1. **01_README.md** - Vue d'ensemble et demarrage rapide
 2. **02_GUIDE_DEBUTANT.md** - Explications simples et progressives
@@ -11,21 +10,17 @@ Ce projet contient plusieurs fichiers de documentation. Voici l'ordre recommande
 5. **05_DOCUMENTATION.md** - Documentation technique complete
 6. **06_RECAPITULATIF.md** - Resume du projet
 
-## Pour Enseignants
 
-1. **06_RECAPITULATIF.md** - Vue d'ensemble rapide du projet
-2. **01_README.md** - Objectifs pedagogiques
-3. **03_STRUCTURE.md** - Architecture et organisation
-4. **05_DOCUMENTATION.md** - Details techniques complets
 
-## Raccourci Rapide
+
+# Raccourci Rapide
 
 - **Vous debutez completement ?** → Commencez par **02_GUIDE_DEBUTANT.md**
 - **Vous voulez une vue d'ensemble ?** → Lisez **01_README.md**
 - **Vous voulez comprendre la structure ?** → Consultez **04_ARBORESCENCE.txt**
 - **Vous voulez tous les details ?** → Lisez **05_DOCUMENTATION.md**
 
----
+
 
 **Bon apprentissage Flutter !**
 
