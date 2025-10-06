@@ -1,4 +1,4 @@
-# Recapitulatif du Projet Flutter
+# Récapitulatif du Projet Flutter
 
 ## [06] Resume Final - Vue d'ensemble complete
 
